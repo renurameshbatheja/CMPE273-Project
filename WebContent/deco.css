@@ -1,0 +1,69 @@
+@CHARSET "ISO-8859-1";
+.button {
+width: 56%;
+display: block;
+float: left;
+background: #008000;
+box-shadow: -8px -8px 32px #990000 inset;
+border: solid #990000 1px;
+border-radius: 45px;
+}
+
+.button {
+font-family: arial;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none;
+text-shadow: 1px 1px 1px #0e0e0e;
+padding: .5% .5%;
+margin: 0 .5%
+}
+
+.button1 {
+width: 96%;
+display: block;
+float: left;
+background: #008000;
+box-shadow: -8px -8px 32px #990000 inset;
+border: solid #990000 1px;
+border-radius: 45px;
+}
+
+.button1 {
+font-family: arial;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none;
+text-shadow: 1px 1px 1px #0e0e0e;
+padding: .5% .5%;
+margin: 0 .5%
+}
+
+
+
+
+.button2 {
+width: 76%;
+display: block;
+float: left;
+background: #008000;
+box-shadow: -8px -8px 32px #990000 inset;
+border: solid #990000 1px;
+border-radius: 45px;
+}
+
+.button2 {
+font-family: arial;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none;
+text-shadow: 1px 1px 1px #0e0e0e;
+padding: .5% .5%;
+margin: 0 .5%
+}
+
+body {
+    background-color: yellow;
+}
+
+
